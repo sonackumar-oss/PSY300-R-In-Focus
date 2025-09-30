@@ -1,0 +1,89 @@
+id,track,album,artist,year,duration,popularity,danceability,energy,key,loudness,speechliness,valence,tempo
+1,What A Wonderful World - Single Version,All Time Greatest Hits,Louis Armstrong,pre2000s,140333,0,0.388,0.327,5,-12.522,0.0317,0.222,107.894
+2,Águas De Marco,Elis,Elis Regina,pre2000s,185773,49,0.611,0.322,3,-13.666,0.287,0.857,150.686
+3,The City,The City,Madeon,2010s,233693,41,0.528,0.81,7,-2.174,0.044,0.295,124.995
+4,One More Time,Discovery,Daft Punk,2000s,320357,80,0.613,0.697,2,-8.618,0.133,0.476,122.746
+5,"It's You, It's Me","It's You, It's Me (Deluxe Edition)",Kaskade,2010s,294418,37,0.796,0.79,7,-6.438,0.0432,0.957,126.995
+6,Eyes (feat. Mindy Gledhill),Fire & Ice,"Kaskade,Mindy Gledhill",2010s,315253,34,0.584,0.552,0,-7.967,0.0445,0.309,128.025
+7,Better Together,In Between Dreams,Jack Johnson,2000s,207680,74,0.868,0.347,5,-9.529,0.0536,0.659,110.059
+8,Forever,By My Side (Retrospective),Ben Harper,2010s,205160,43,0.651,0.195,0,-16.543,0.121,0.272,168.483
+9,Crash into Me,Crash,Dave Matthews Band,pre2000s,316466,68,0.541,0.677,4,-10.764,0.0373,0.555,101.1
+10,Clarity,Clarity,"Zedd,Foxes",2010s,271426,77,0.509,0.781,8,-3.48,0.072,0.176,128
+11,Spectrum,Clarity,"Zedd,Matthew Koma",2010s,243413,62,0.609,0.801,0,-4.417,0.034,0.407,129.99
+12,Beautiful,Stripped,Christina Aguilera,2000s,238560,73,0.456,0.573,5,-3.866,0.0275,0.0992,76.19
+13,I Will Wait,Babel,Mumford & Sons,2010s,276720,0,0.481,0.766,1,-5.208,0.0334,0.436,131.143
+14,Little Lion Man,Sigh No More,Mumford & Sons,2010s,246973,0,0.519,0.512,5,-7.986,0.0282,0.441,138.596
+15,Lover Of The Light,Babel (Deluxe Version),Mumford & Sons,2010s,314893,10,0.298,0.702,2,-6.635,0.0479,0.349,105.558
+16,Scheme,When the Dust Settles - EP,STS9,2010s,311053,0,0.674,0.919,8,-6.31,0.0401,0.393,120.01
+17,Raise Your Weapon,5 Years of mau5,deadmau5,2010s,502909,0,0.507,0.699,1,-7.483,0.0814,0.0744,139.909
+18,Explosions,Halcyon Days,Ellie Goulding,2010s,243886,36,0.378,0.53,5,-6.676,0.0304,0.146,95.977
+19,Burn,Halcyon Days,Ellie Goulding,2010s,231211,62,0.559,0.777,1,-5.031,0.0432,0.329,87.016
+20,I Feel Home,34th and 8th,O.A.R.,2000s,409120,0,0.426,0.418,9,-11.532,0.037,0.206,120.53
+21,You Found Me,The Fray,The Fray,2000s,241853,77,0.338,0.803,8,-5.412,0.0413,0.4,151.994
+22,I'm Lost Without You,blink-182 (Explicit Version),blink-182,2000s,380573,0,0.268,0.724,4,-6.083,0.0354,0.407,85.92
+23,Doin' Time,Sublime Greatest Hits,Sublime,pre2000s,251120,0,0.711,0.724,7,-5.97,0.0851,0.482,80.975
+24,Love Me Like You Do - From Fifty Shades Of Grey,Fifty Shades Of Grey (Original Motion Picture Soundtrack),Ellie Goulding,2010s,250266,65,0.258,0.659,5,-5.903,0.0596,0.272,189.558
+25,Last Chance,Atmosphere,"Kaskade,Project 46",2010s,258293,0,0.416,0.848,3,-4.688,0.0596,0.165,127.905
+26,The Veldt - 8 Minute Edit,The Veldt,"deadmau5,Chris James",2010s,519847,31,0.734,0.658,9,-8.28,0.0314,0.348,128.03
+27,The Race,Rolling Papers,Wiz Khalifa,2010s,335613,54,0.658,0.748,5,-6.323,0.201,0.571,151.876
+28,Fade Into Darkness - Vocal Radio Mix,Fade into Darkness,Avicii,2010s,198138,0,0.556,0.885,6,-4.045,0.0321,0.771,125.997
+29,A Thousand Years,The Piano Guys,The Piano Guys,2010s,275973,58,0.23,0.217,10,-13.464,0.0386,0.156,157.084
+30,Christmas Canon,The Christmas Attic,Trans-Siberian Orchestra,pre2000s,257986,61,0.286,0.362,2,-6.345,0.031,0.148,132.842
+31,"It's You, It's Me","It's You, It's Me (Deluxe Edition)",Kaskade,2010s,294418,37,0.796,0.79,7,-6.438,0.0432,0.957,126.995
+32,Eyes (feat. Mindy Gledhill),Fire & Ice,"Kaskade,Mindy Gledhill",2010s,315253,34,0.584,0.552,0,-7.967,0.0445,0.309,128.025
+33,Forever,By My Side (Retrospective),Ben Harper,2010s,205160,43,0.651,0.195,0,-16.543,0.121,0.272,168.483
+34,Scheme,When the Dust Settles - EP,STS9,2010s,311053,0,0.674,0.919,8,-6.31,0.0401,0.393,120.01
+35,Raise Your Weapon,5 Years of mau5,deadmau5,2010s,502909,0,0.507,0.699,1,-7.483,0.0814,0.0744,139.909
+36,I Feel Home,34th and 8th,O.A.R.,2000s,409120,0,0.426,0.418,9,-11.532,0.037,0.206,120.53
+37,I'm Lost Without You,blink-182 (Explicit Version),blink-182,2000s,380573,0,0.268,0.724,4,-6.083,0.0354,0.407,85.92
+38,Where Are Ü Now (with Justin Bieber),Skrillex and Diplo present Jack Ü,"Jack Ü,Skrillex,Diplo,Justin Bieber",2010s,250285,77,0.432,0.781,4,-4.038,0.0567,0.197,139.432
+39,MMMBop,MmmBop : The Collection,Hanson,2000s,267946,39,0.685,0.948,9,-5.182,0.0457,0.628,104.881
+40,Roar,PRISM (Deluxe),Katy Perry,2010s,223546,75,0.554,0.772,7,-4.821,0.0418,0.455,179.984
+41,Wrecking Ball,Bangerz (Deluxe Version),Miley Cyrus,2010s,221360,83,0.53,0.422,5,-6.262,0.0342,0.349,119.964
+42,Heroes (we could be),Heroes (we could be),Alesso,2010s,209866,56,0.521,0.754,5,-4.144,0.0634,0.352,125.876
+43,Wanted,Hunter Hayes (Encore),Hunter Hayes,2010s,228840,68,0.421,0.476,0,-7.692,0.0298,0.3,169.784
+44,I Will Wait,Babel,Mumford & Sons,2010s,276720,0,0.481,0.766,1,-5.208,0.0334,0.436,131.143
+45,The Cave,Sigh No More,Mumford & Sons,2010s,217986,0,0.576,0.486,4,-9.364,0.0406,0.337,141.951
+46,Bailando - English Version,SEX AND LOVE,"Enrique Iglesias,Sean Paul,Descemer Bueno,Gente De Zona",2010s,243240,54,0.719,0.844,7,-3.529,0.103,0.941,90.951
+47,Wild Ones (feat. Sia),Wild Ones (feat. Sia),"Flo Rida,Sia",2010s,233688,54,0.624,0.889,5,-3.772,0.0504,0.45,127.019
+48,Blurred Lines,Blurred Lines,"Robin Thicke,T.I.,Pharrell Williams",2010s,263053,0,0.862,0.503,7,-7.703,0.0494,0.863,119.998
+49,Levels - Radio Edit,Levels,Avicii,2010s,199903,0,0.62,0.881,1,-5.851,0.0372,0.415,126.035
+50,Last Chance,Atmosphere,"Kaskade,Project 46",2010s,258293,0,0.416,0.848,3,-4.688,0.0596,0.165,127.905
+51,Tonight Is the Night,Tonight Is The Night,Outasight,2010s,190000,47,0.625,0.786,7,-3.814,0.0465,0.537,119.982
+52,The Veldt - 8 Minute Edit,The Veldt,"deadmau5,Chris James",2010s,519847,31,0.734,0.658,9,-8.28,0.0314,0.348,128.03
+53,Marry You,Doo-Wops & Hooligans,Bruno Mars,2010s,230192,79,0.621,0.82,10,-4.865,0.0367,0.452,144.905
+54,We Are Family - 1995 Remaster,We Are Family (1995 Remaster),Sister Sledge,pre2000s,216733,74,0.784,0.893,7,-5.153,0.0923,0.819,118.738
+55,Piano Man,Piano Man (Legacy Edition),Billy Joel,pre2000s,339000,79,0.331,0.55,0,-6.483,0.0272,0.429,177.734
+56,What I Like About You,What I Like About You (And Other Romantic Hits),The Romantics,pre2000s,175400,63,0.542,0.915,9,-9.637,0.0549,0.92,159.81
+57,I'm Yours,We Sing. We Dance. We Steal Things.,Jason Mraz,2000s,242946,80,0.703,0.444,11,-9.331,0.0417,0.712,150.96
+58,Hey Ya!,The Way You Move / Hey Ya!,Outkast,2000s,239240,64,0.715,0.97,0,-2.206,0.0648,0.963,79.504
+59,Celebration,Celebrate!,Kool & The Gang,pre2000s,298866,75,0.885,0.664,1,-11.795,0.0524,0.906,121.632
+60,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES),Black Eyed Peas,2000s,289133,3,0.743,0.766,0,-6.375,0.0265,0.61,127.96
+61,The City,The City,Madeon,2010s,233693,41,0.528,0.81,7,-2.174,0.044,0.295,124.995
+62,The Race,Rolling Papers,Wiz Khalifa,2010s,335613,54,0.658,0.748,5,-6.323,0.201,0.571,151.876
+63,Hate Me Now (feat.- Puff Daddy),Greatest Hits,"Nas,Diddy",2000s,285306,0,0.652,0.754,9,-4.929,0.208,0.429,90.12
+64,Fade Into Darkness - Vocal Radio Mix,Fade into Darkness,Avicii,2010s,198138,0,0.556,0.885,6,-4.045,0.0321,0.771,125.997
+65,The Illest,The Illest,"Far East Movement,Riff Raff",2010s,219866,44,0.666,0.716,6,-4.332,0.0678,0.544,142.066
+66,Punching In A Dream,"Passive Me, Aggressive You",The Naked And Famous,2010s,238133,64,0.473,0.883,6,-3.65,0.047,0.164,115.048
+67,Want to Want Me,Everything Is 4,Jason Derulo,2010s,207719,80,0.775,0.68,0,-5.508,0.0629,0.656,114.025
+68,Give Me Your Hand (Best Song Ever),The Bad & The Better,The Ready Set,2010s,228093,0,0.69,0.889,6,-3.279,0.0462,0.892,125.998
+69,Billie Jean,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",Michael Jackson,pre2000s,294000,53,0.92,0.579,11,-5.517,0.0414,0.838,117.084
+70,Watch Me (Whip / Nae Nae),Watch Me (Whip / Nae Nae),Silentó,2010s,185142,68,0.821,0.759,8,-8.541,0.121,0.962,140.01
+71,Twist and Shout,Twist and Shout,Beatle Things,2010s,162028,0,0.563,0.981,9,-6.29,0.0631,0.298,124.45
+72,It's Tricky,Greatest Hits,Run–D.M.C.,2000s,183626,0,0.957,0.754,11,-11.545,0.143,0.961,127.861
+73,Girls Just Want to Have Fun,Twelve Deadly Cyns...And Then Some,Cyndi Lauper,pre2000s,234600,53,0.704,0.721,6,-7.346,0.0369,0.769,120.543
+74,Yeah! (feat. Lil Jon & Ludacris),Confessions (Expanded Edition),"USHER,Lil Jon,Ludacris",2000s,250373,87,0.894,0.791,2,-4.699,0.112,0.583,105.018
+75,Dancing Queen,Arrival,ABBA,pre2000s,230693,1,0.539,0.884,9,-6.53,0.0403,0.752,100.812
+76,Footloose - From Footloose Soundtrack,Footloose (15th Anniversary Collectors' Edition),Kenny Loggins,pre2000s,226826,74,0.583,0.905,2,-6.132,0.0733,0.646,173.982
+77,Don't Stop Believin',The Essential Journey,Journey,2000s,248906,74,0.491,0.802,4,-7.106,0.0392,0.472,119.25
+78,Shut Up and Dance,TALKING IS HARD,WALK THE MOON,2010s,199080,86,0.578,0.866,1,-3.804,0.0619,0.619,128.038
+79,Thinking out Loud,x (Deluxe Edition),Ed Sheeran,2010s,281560,85,0.781,0.445,2,-6.061,0.0295,0.591,78.998
+80,Cupid Shuffle,Time for a Change,Cupid,2000s,231360,65,0.785,0.582,5,-4.877,0.237,0.861,71.774
+81,Wonderful Tonight,Slowhand 35th Anniversary,Eric Clapton,pre2000s,225026,44,0.572,0.214,7,-15.626,0.0293,0.486,95.541
+82,Marry Me,"Save Me, San Francisco (Golden Gate Edition)",Train,2000s,205453,0,0.366,0.269,0,-8.456,0.0287,0.492,86.577
+83,Macarena - Bayside Boys Remix,Alegria Y Cosabuena,Los Del Rio,2000s,253106,59,0.737,0.93,1,-6.083,0.0534,0.965,103.191
+84,Trap Queen,Fetty Wap (Deluxe),Fetty Wap,2010s,222093,78,0.746,0.873,7,-3.803,0.128,0.817,148.075
+85,Titanium (feat. Sia),Nothing but the Beat,"David Guetta,Sia",2010s,245040,61,0.604,0.788,0,-3.673,0.103,0.301,126.06
+86,Hotline Bling,Hotline Bling,Drake,2010s,267023,0,0.896,0.623,2,-8.008,0.0571,0.585,134.962
+87,Post to Be (feat. Chris Brown & Jhene Aiko),Post to Be (feat. Chris Brown & Jhene Aiko),"Omarion,Chris Brown,Jhené Aiko",2010s,226580,56,0.733,0.676,10,-5.655,0.0432,0.701,97.448
+88,How Long Will I Love You - Bonus Track,Halcyon Days,Ellie Goulding,2010s,154435,52,0.512,0.304,0,-9.19,0.0318,0.172,126.078
